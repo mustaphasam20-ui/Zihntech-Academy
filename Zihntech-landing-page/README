@@ -1,0 +1,177 @@
+# 🚀 Zihntech Landing Page
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Tech Stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=frontendmentor&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Learning%20in%20Public-success?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Zihntech-Academy-0A66C2?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+<img src="https://img.shields.io/badge/Beginner%20Project-Growth%20Mindset-orange?style=for-the-badge&logo=target&logoColor=white" />
+
+### A responsive landing page built with HTML, CSS, and JavaScript — documenting my transition from beginner to professional frontend developer.
+
+</div>
+
+---
+
+## 🌱 Introduction
+
+This repository contains **Zihntech Landing Page**, one of the earliest projects in my frontend development journey at **Zihntech Academy**.
+
+At first glance, it may look like a simple landing page. But for me, it represents something much deeper: **the moment I stopped only consuming technology and started building with it**.
+
+Every line of code in this project reflects the experience of a beginner learning how real-world web applications are structured, styled, organized, and version-controlled. This repository is not just about creating a webpage — it is about building **discipline, consistency, problem-solving ability, and confidence as a developer**.
+
+I chose to keep this project public because I believe growth should be visible. Future versions of this repository will become a timeline of my improvement as I continue learning and refining my skills.
+
+---
+
+## 💡 Why This Project Matters
+
+Many new developers are afraid to publish their first projects because they think the code is not perfect.
+
+I had that fear too.
+
+But I realized that **perfection is not the requirement for growth — consistency is**.
+
+This project is my decision to **learn in public**.
+
+Instead of waiting until I become “good enough,” I decided to document the journey from the beginning. I want anyone who visits this repository to see not only the final result, but also the mindset behind it: **show up, build, make mistakes, improve, repeat**.
+
+---
+
+## 🎯 Project Overview
+
+**Zihntech Landing Page** is a responsive landing page designed to practice core frontend development concepts without relying heavily on frameworks.
+
+### The project focuses on:
+
+* Semantic HTML structure
+* Responsive CSS layouts
+* JavaScript interactivity
+* Clean project organization
+* Git and GitHub workflow
+* Real-world documentation practices
+
+---
+
+## ✨ Features
+
+<Grid columns={{"default":1,"md":2}} gap={4}><Grid.Item><Row align="start" columnGap={3}><Box size={56} radius="2xl" background="blue-subtle" justify="center" align="center"><Icon name="smartphone" size="2xl" color="blue-600"/></Box><Col gap={1}><Title value="Responsive Design"/><Text>Adapts smoothly across mobile, tablet, and desktop screens.</Text></Col></Row></Grid.Item><Grid.Item><Row align="start" columnGap={3}><Box size={56} radius="2xl" background="green-subtle" justify="center" align="center"><Icon name="layout" size="2xl" color="green-600"/></Box><Col gap={1}><Title value="Modern Layout"/><Text>Structured sections with a clean visual hierarchy and spacing.</Text></Col></Row></Grid.Item><Grid.Item><Row align="start" columnGap={3}><Box size={56} radius="2xl" background="yellow-subtle" justify="center" align="center"><Icon name="zap" size="2xl" color="yellow-600"/></Box><Col gap={1}><Title value="JavaScript Interactivity"/><Text>Interactive behavior powered by vanilla JavaScript fundamentals.</Text></Col></Row></Grid.Item><Grid.Item><Row align="start" columnGap={3}><Box size={56} radius="2xl" background="purple-subtle" justify="center" align="center"><Icon name="folder-code" size="2xl" color="purple-600"/></Box><Col gap={1}><Title value="Organized Assets"/><Text>Images, videos, styles, and scripts are separated for maintainability.</Text></Col></Row></Grid.Item></Grid>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+</div>
+
+<Table columnSizing="equal" rowDivider={1}><Table.Row header><Table.Cell>Technology</Table.Cell><Table.Cell>Purpose</Table.Cell></Table.Row><Table.Row><Table.Cell><Row align="center" columnGap={2}><Icon name="code" color="danger"/><Text weight="semibold" value="HTML5"/></Row></Table.Cell><Table.Cell>Page structure and semantic markup</Table.Cell></Table.Row><Table.Row><Table.Cell><Row align="center" columnGap={2}><Icon name="palette" color="blue-600"/><Text weight="semibold" value="CSS3"/></Row></Table.Cell><Table.Cell>Styling, layout, and responsiveness</Table.Cell></Table.Row><Table.Row><Table.Cell><Row align="center" columnGap={2}><Icon name="zap" color="yellow-600"/><Text weight="semibold" value="JavaScript"/></Row></Table.Cell><Table.Cell>Interactivity and dynamic behavior</Table.Cell></Table.Row><Table.Row><Table.Cell><Row align="center" columnGap={2}><Icon name="git-commit"/><Text weight="semibold" value="Git"/></Row></Table.Cell><Table.Cell>Version control and change tracking</Table.Cell></Table.Row><Table.Row><Table.Cell><Row align="center" columnGap={2}><Icon name="github"/><Text weight="semibold" value="GitHub"/></Row></Table.Cell><Table.Cell>Repository hosting and collaboration</Table.Cell></Table.Row><Table.Row><Table.Cell><Row align="center" columnGap={2}><Icon name="layout-dashboard" color="blue-600"/><Text weight="semibold" value="VS Code"/></Row></Table.Cell><Table.Cell>Development environment and debugging</Table.Cell></Table.Row></Table>
+
+---
+
+## 📂 Project Structure
+
+<CodeBlock language="text" content="zihntech-landing-page/
+├── 📁 Asset/
+│   ├── 🖼️ Image/
+│   ├── 🎬 Video/
+│   └── 📄 Readme.md
+├── 🌐 index.html
+├── 🎨 style.css
+├── ⚡ script.js
+└── 📘 README.md"/>
+
+This structure was intentionally organized to help me practice how professional frontend projects separate **assets, styles, scripts, and documentation**.
+
+---
+
+## 🧠 What I Learned
+
+Building this project taught me lessons that go beyond syntax.
+
+### Frontend Skills
+
+* Creating semantic HTML layouts
+* Designing responsive interfaces with CSS
+* Linking stylesheets and JavaScript files correctly
+* Structuring folders for scalability
+
+### Developer Skills
+
+* Using Git for version control
+* Creating meaningful commits
+* Pushing code to GitHub
+* Writing professional README documentation
+* Debugging beginner mistakes patiently
+* Understanding that confusion is part of the learning process
+
+One of the most important lessons I learned is this:
+
+> **Making mistakes is not evidence that you are failing; it is evidence that you are actively building something new.**
+
+---
+
+## 🚧 Current Status
+
+<Badge color="success" label="Actively Improving"/>
+
+This project is still evolving as I continue my training at **Zihntech Academy**.
+
+### Planned Improvements
+
+* Better mobile responsiveness
+* Accessibility enhancements
+* Smoother animations and transitions
+* Cleaner JavaScript architecture
+* Performance optimization
+* More refined UI/UX design
+
+I plan to revisit this repository regularly and update it as my skills become stronger.
+
+---
+
+## 🤝 A Note to Developers Reviewing This Repository
+
+If you are a **junior developer**, I hope this project reminds you that your first repository does not need to be perfect to be valuable.
+
+The hardest part is often not writing code — it is having the courage to publish your work.
+
+If you are a **senior developer**, I would genuinely appreciate constructive feedback on:
+
+* 🧹 Code structure
+* 🏷️ Naming conventions
+* 📱 Responsiveness
+* ♿ Accessibility
+* ⚡ Performance
+* 📐 Beginner-friendly best practices
+
+I am not trying to appear experienced; I am trying to **become experienced through consistent practice, honest learning, and continuous improvement**.
+
+---
+
+## 🌐 Connect With Me
+
+I am documenting my journey from **beginner frontend developer to professional software engineer**, and I would love to connect with developers who believe in continuous growth and learning.
+
+<div align="center">
+
+<a href="https://github.com/mustaphasam20-ui">
+  <img src="https://img.shields.io/badge/GitHub-mustaphasam20--ui-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/mustaphasam20-ui">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustaphasam20-ui&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</a>
+
+</div>
+
+Thank you for visiting this repository. Your feedback, suggestions, and encouragement are sincerely appreciated, and I hope this project becomes one of many milestones in a much bigger development journey. 🚀
